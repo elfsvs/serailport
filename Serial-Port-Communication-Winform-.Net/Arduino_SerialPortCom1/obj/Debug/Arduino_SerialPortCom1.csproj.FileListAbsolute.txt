@@ -1,0 +1,11 @@
+C:\Users\esava\Source\Repos\Serial-Port-Communication-Winform-.Net\Arduino_SerialPortCom1\obj\Debug\Arduino_SerialPortCom1.csproj.AssemblyReference.cache
+C:\Users\esava\Source\Repos\Serial-Port-Communication-Winform-.Net\Arduino_SerialPortCom1\obj\Debug\Arduino_SerialPortCom1.csproj.SuggestedBindingRedirects.cache
+C:\Users\esava\Source\Repos\Serial-Port-Communication-Winform-.Net\Arduino_SerialPortCom1\obj\Debug\Arduino_SerialPortCom1.Form1.resources
+C:\Users\esava\Source\Repos\Serial-Port-Communication-Winform-.Net\Arduino_SerialPortCom1\obj\Debug\Arduino_SerialPortCom1.Properties.Resources.resources
+C:\Users\esava\Source\Repos\Serial-Port-Communication-Winform-.Net\Arduino_SerialPortCom1\obj\Debug\Arduino_SerialPortCom1.csproj.GenerateResource.cache
+C:\Users\esava\Source\Repos\Serial-Port-Communication-Winform-.Net\Arduino_SerialPortCom1\obj\Debug\Arduino_SerialPortCom1.csproj.CoreCompileInputs.cache
+C:\Users\esava\Source\Repos\Serial-Port-Communication-Winform-.Net\Arduino_SerialPortCom1\bin\Debug\Arduino_SerialPortCom1.exe.config
+C:\Users\esava\Source\Repos\Serial-Port-Communication-Winform-.Net\Arduino_SerialPortCom1\bin\Debug\Arduino_SerialPortCom1.exe
+C:\Users\esava\Source\Repos\Serial-Port-Communication-Winform-.Net\Arduino_SerialPortCom1\bin\Debug\Arduino_SerialPortCom1.pdb
+C:\Users\esava\Source\Repos\Serial-Port-Communication-Winform-.Net\Arduino_SerialPortCom1\obj\Debug\Arduino_SerialPortCom1.exe
+C:\Users\esava\Source\Repos\Serial-Port-Communication-Winform-.Net\Arduino_SerialPortCom1\obj\Debug\Arduino_SerialPortCom1.pdb
